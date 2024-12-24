@@ -4,7 +4,9 @@
 
 ### Шмелев Артём павлович ЭФБО-05-22
 
-Черновик загрузки для RuStore и приложенный архив app-releaase.zip с apk файлом, иконкой и скриншотами приложения
+Черновик загрузки для RuStore и ссылка на архив app-releaase.zip с apk файлом, иконкой и скриншотами приложения
+
+https://disk.yandex.ru/d/Wx8k6-avsKbURQ
 
 ![image](https://github.com/user-attachments/assets/17194d1c-322b-4a6e-9fa3-f2fd21a8f144)
 
