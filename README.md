@@ -16,6 +16,8 @@ https://disk.yandex.ru/d/Wx8k6-avsKbURQ
 
 ![image](https://github.com/user-attachments/assets/9d11752b-5706-40ea-81dc-10b245624ba4)
 
+![3](https://github.com/user-attachments/assets/76f912a2-9dc6-4eb0-9aca-b9c265fcddd0)
+
 
 
 
